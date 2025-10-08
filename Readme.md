@@ -6,6 +6,9 @@ A TypeScript/Express/Mongoose backend for movies with filtering, CRUD, auth, Swa
 - Back-end:  Express.js, JWT, Typescript
 - Database:  MongoDB
 
+#### Project Demo :point_down:
+
+[![Project Demo](./frontend/public/details.png)](https://drive.google.com/file/d/1ET2tdg7ji_CrdRtz8BRRU7hMPKnkAJbw/view?usp=drive_link)
 
 ## Quick Start
 
