@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-title{ @apply text-xl font-semibold mb-3;}
+.card{ @apply bg-slate-800 rounded-xl p-3 shadow hover:shadow-lg transition; }
+.btn{ @apply px-4 py-2 rounded bg-blue-600 hover:bg-blue-500; }
+
+
+/* hide horizontal scrollbar but keep scrollability */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
