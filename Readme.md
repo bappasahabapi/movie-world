@@ -8,7 +8,7 @@ A TypeScript/Express/Mongoose backend for movies with filtering, CRUD, auth, Swa
 
 #### Project Demo :point_down:
 
-[![Project Demo](./frontend/public/details.png)](https://drive.google.com/file/d/1ET2tdg7ji_CrdRtz8BRRU7hMPKnkAJbw/view?usp=drive_link)
+[![Project Demo](./frontend/public/details.png)](https://youtu.be/0v_kSnmTJzs?si=GgUmjX8WZ0N3RIaJ)
 
 ## Quick Start
 
